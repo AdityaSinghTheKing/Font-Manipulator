@@ -1,0 +1,23 @@
+.coprightfooter{
+    bottom: 0;
+    color:black ;
+    width: 100%;
+    background-color:lightgrey ;
+    line-height: 3;
+    text-align: center;
+    position: fixed;
+
+}
+canvas{
+    border-radius: 10;
+    border-color: gray;
+    box-shadow: 5px 5px 10px white;    
+}
+video{
+    border-radius: 10;
+    border-color: gray;
+    box-shadow: 5px 5px 10px white;    
+}
+body{
+    background: lightblue;
+}
